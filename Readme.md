@@ -1,7 +1,7 @@
-# Личный проект «TaskForce»
+﻿# Личный проект «TaskForce»
 
 * Студент: [Денис Гудин](https://up.htmlacademy.ru/yii/1/user/427255).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Стулов](https://htmlacademy.ru/profile/id25231).
 
 ---
 
